@@ -7,6 +7,8 @@ public class AppiumTest {
 	public void Android()
 	{
 		System.out.println("Android");
+		System.out.println("Android1");
+		System.out.println("Android2");
 	}
 	
 	@Test
