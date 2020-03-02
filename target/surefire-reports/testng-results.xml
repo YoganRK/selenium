@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+      <class name="SeleniumFramework.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:SeleniumFramework.RESTAPITest@5702b3b1]" name="DeleteTwitter" duration-ms="8" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:SeleniumFramework.RESTAPITest@5702b3b1]" name="PostJira" duration-ms="1" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- SeleniumFramework.RESTAPITest -->
+      <class name="SeleniumFramework.AppiumTest">
+        <test-method status="PASS" signature="Android()[pri:0, instance:SeleniumFramework.AppiumTest@4b952a2d]" name="Android" duration-ms="1" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:SeleniumFramework.AppiumTest@4b952a2d]" name="IOSApps" duration-ms="1" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+      </class> <!-- SeleniumFramework.AppiumTest -->
+      <class name="SeleniumFramework.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:SeleniumFramework.SeleniumTest@69ea3742]" name="BrowserAutomation" duration-ms="2" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:SeleniumFramework.SeleniumTest@69ea3742]" name="ElementsUI" duration-ms="1" started-at="2020-03-02T11:13:39 IST" finished-at="2020-03-02T11:13:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- SeleniumFramework.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
